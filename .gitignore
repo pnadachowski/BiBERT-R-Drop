@@ -130,3 +130,22 @@ data-bin/
 
 # Experimental Folder
 experimental/*
+
+download_prepare/8k-vocab-models
+download_prepare/12k-vocab-models
+download_prepare/12k_tok/
+download_prepare/8k_tok/
+download_prepare/bibert_tok/
+download_prepare/data/
+download_prepare/data_demose/
+download_prepare/data_desubnmt/
+download_prepare/data_mixed/
+download_prepare/data_mixed_ft/
+download_prepare/iwslt14.tokenized.de-en/
+download_prepare/mosesdecoder/
+download_prepare/prepare-iwslt14.sh
+download_prepare/orig/
+download_prepare/subword-nmt
+
+bibert-r-drop-8-ft/
+bibert-r-drop-8/

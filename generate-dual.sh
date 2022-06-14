@@ -1,6 +1,6 @@
-DATAPATH=./download_prepare/data_mixed_ft/
+DATAPATH=./download_prepare/data_mixed/
 STPATH=${DATAPATH}de-en-databin/
-MODELPATH=./models/dual-ft/ 
+MODELPATH=./models/bibert-r-drop-8/ 
 PRE_SRC=jhu-clsp/bibert-ende
 PRE=./download_prepare/12k-vocab-models/
 CUDA_VISIBLE_DEVICES=0 fairseq-generate \
